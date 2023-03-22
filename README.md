@@ -2,5 +2,4 @@
 A python mini project on Library Managment System using database
 
 
-Contributed By: Ms. Ananya Singh 
-                Mr. Lacky Singh
+Contributed By: Mr. Lacky Singh
